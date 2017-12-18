@@ -1,6 +1,6 @@
 Hello, and welcome to Deciduo!!!
 
-Description: Deciduo is a program that relies on psychological inputs to learn and detect what foods/exercises make people happy but also keep them healthy. 
+Description: Deciduo is a program that relies on psychological inputs to learn and detect what foods/exercises make people happy but also keep them healthy. Using machine learning and Legrange optimization, the program learns what types of foods/exercises maximize people's happiness over time. You can also use other user algorithms to see what they would prefer!
 
 How to run: 
 
